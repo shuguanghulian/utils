@@ -1,0 +1,17 @@
+{
+  "name": "shuguanghulian/utils",
+  "description": "shuguanghulian utils",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "hero",
+      "email": "shuguanghulian@163.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "shuguanghulian\\utils\\": "src"
+    }
+  },
+  "require": {}
+}
